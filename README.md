@@ -1,5 +1,8 @@
 # rustwc
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rustvu/rustwc_ci/ci.yml)
+
+
 ## Description
 
 Counting number of lines, words and characters in files or the standard input.
